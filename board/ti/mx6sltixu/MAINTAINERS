@@ -1,0 +1,9 @@
+MX6SLTIXU BOARD
+M:	Sanoj Kumar <sanoj.kumar@vvdntech.com>
+M:	Vipul Kumar <vipul.kumar@vvdntech.in>
+S:	Maintained
+F:	board/ti/mx6sltixu/
+F:	include/configs/mx6sltixu.h
+F:	configs/mx6sltixu_defconfig
+F:	configs/mx6sltixu_spl_defconfig
+F:	configs/mx6sltixu_spinor_defconfig

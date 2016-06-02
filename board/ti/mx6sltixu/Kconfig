@@ -1,0 +1,12 @@
+if TARGET_MX6SLTIXU
+
+config SYS_BOARD
+	default "mx6sltixu"
+
+config SYS_VENDOR
+	default "ti"
+
+config SYS_CONFIG_NAME
+	default "mx6sltixu"
+
+endif

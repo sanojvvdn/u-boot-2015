@@ -406,7 +406,7 @@ int board_init(void)
 
 #ifdef CONFIG_SYS_I2C_MXC
 #ifdef CONFIG_POWER_TPS65910 
-	setup_i2c(0, CONFIG_SYS_I2C_SPEED, 0x2d, &i2c_pad_info1);
+	setup_i2c(0, CONFIG_SYS_I2C_SPEED, 0x12, &i2c_pad_info1);
 #endif
 #endif
 
